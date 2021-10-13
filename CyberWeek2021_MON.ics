@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Australia/Sydney
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/Australia/Sydney
+X-LIC-LOCATION:Australia/Sydney
+BEGIN:STANDARD
+TZNAME:AEST
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+DTSTART:19700405T030000
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+TZNAME:AEDT
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+DTSTART:19701004T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=1SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20211013T002540Z
+UID:20211013T002540Z-1828977141@marudot.com
+DTSTART;TZID=Australia/Sydney:20211025T090000
+DTEND;TZID=Australia/Sydney:20211025T103000
+SUMMARY:Official launch of Australian Cyber Week 2021
+URL:https://www.cyberweek2021.austcyber.com/event/official-launch-australian-cyber-week-2021
+DESCRIPTION:Launching Australian Cyber Week 2021\, we’ll look back at the last 12 months of unprecedented cyber activity and its impact on the Australian and global economy.
+LOCATION:ONLINE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211013T002540Z
+UID:20211013T002540Z-1109538054@marudot.com
+DTSTART;TZID=Australia/Sydney:20211025T120000
+DTEND;TZID=Australia/Sydney:20211025T130000
+SUMMARY:Butchers\, bakers and candlestick makers – why Australia's new Critical Infrastructure Bill affects everyone
+URL:https://www.cyberweek2021.austcyber.com/event/butchers-bakers-and-candlestick-makers-why-australias-new-critical-infrastructure-bill
+DESCRIPTION:In this session we will be joined by guest speakers from across cyber security and critical infrastructure sectors to discuss the proposed reforms and what they could mean for businesses large\, medium and small. 
+LOCATION:ONLINE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211013T002540Z
+UID:20211013T002540Z-454412610@marudot.com
+DTSTART;TZID=Australia/Sydney:20211025T120000
+DTEND;TZID=Australia/Sydney:20211025T130000
+SUMMARY:Cyber escape room - ‘Australia under attack’
+URL:https://www.cyberweek2021.austcyber.com/event/cyber-escape-room-australia-under-attack-monday
+DESCRIPTION:Do you have what it takes to defend Australia from a cyber attack and escape the Special Operations Command Centre in time? Join ‘Australia under attack’ - a cyber escape room challenge with 20 of your fellow Australian Cyber Week attendees.
+LOCATION:ONLINE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211013T002540Z
+UID:20211013T002540Z-1414249716@marudot.com
+DTSTART;TZID=Australia/Sydney:20211025T140000
+DTEND;TZID=Australia/Sydney:20211025T150000
+SUMMARY:The impact of WA’s cyber sector
+URL:https://www.cyberweek2021.austcyber.com/event/impact-was-cyber-sector
+DESCRIPTION:The WA AustCyber Innovation Hub’s own podcast\, West Coast Cyber\, will record in front of a live audience from the Joondalup Resort Country Club to discuss Western Australia’s highly vibrant and competitive cyber sector.
+LOCATION:ONLINE & IN-PERSON
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211013T002540Z
+UID:20211013T002540Z-642765696@marudot.com
+DTSTART;TZID=Australia/Sydney:20211025T153000
+DTEND;TZID=Australia/Sydney:20211025T161500
+SUMMARY:Insights and vulnerabilities - with AISA Adelaide and SecTalks
+URL:https://www.cyberweek2021.austcyber.com/event/insights-and-vulnerabilities-aisa-adelaide-and-sectalks
+DESCRIPTION:The South Australia Cyber Security Innovation Node\, in partnership with the Australian Information Security Association (AISA) and SecTalks\, will be running an event to provide industry insights and discuss vulnerabilities in cyber from the Startup Hub at Lot Fourteen\, Stone and Chalk.
+LOCATION:ONLINE & IN-PERSON
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211013T002540Z
+UID:20211013T002540Z-1371460885@marudot.com
+DTSTART;TZID=Australia/Sydney:20211025T173000
+DTEND;TZID=Australia/Sydney:20211025T190000
+SUMMARY:Under siege: Are we ready for a cyber attack on Australia’s hospital system? (hypothetical)
+URL:https://www.cyberweek2021.austcyber.com/event/under-siege-are-we-ready-cyber-attack-australias-hospital-system-hypothetical
+DESCRIPTION:Join us for the first ‘AustCyber after dark’ session\,  where we’ll step through all the facets of a hypothetical cyber-attack on a hospital – the impacts on and responses of the government\, crucial parts of our society and how it could impact us all.
+LOCATION:ONLINE HYPOTHETICAL
+END:VEVENT
+END:VCALENDAR

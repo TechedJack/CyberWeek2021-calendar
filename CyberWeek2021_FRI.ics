@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Australia/Sydney
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/Australia/Sydney
+X-LIC-LOCATION:Australia/Sydney
+BEGIN:STANDARD
+TZNAME:AEST
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+DTSTART:19700405T030000
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+TZNAME:AEDT
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+DTSTART:19701004T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=1SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20211013T002810Z
+UID:20211013T002810Z-459763340@marudot.com
+DTSTART;TZID=Australia/Sydney:20211029T090000
+DTEND;TZID=Australia/Sydney:20211029T094500
+SUMMARY:RSA Conference 365 Innovation Showcase
+URL:https://www.cyberweek2021.austcyber.com/event/rsa-conference-365-innovation-showcase
+DESCRIPTION:Join us for this virtual event where expert-led panels and startups from around the world will open your eyes to the industry’s latest technology and solutions. Hear directly from the companies who are responsible for the newest developments from your own front row seat.
+LOCATION:FREE EVENT – ONLINE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211013T002810Z
+UID:20211013T002810Z-660844176@marudot.com
+DTSTART;TZID=Australia/Sydney:20211029T093000
+DTEND;TZID=Australia/Sydney:20211029T140000
+SUMMARY:OSINT Combine: Full-day Open Source Intelligence (OSINT) training
+URL:https://www.cyberweek2021.austcyber.com/event/osint-combine-full-day-open-source-intelligence-osint-training
+DESCRIPTION:Join us virtually for an instructor-led full day of OSINT training\, provided by OSINT Combine\, to learn open source fundamentals\, searching essentials and cross platform social media network analysis. Learn how OSINT can complement cyber security.
+LOCATION:FREE EVENT – ONLINE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211013T002810Z
+UID:20211013T002810Z-720585858@marudot.com
+DTSTART;TZID=Australia/Sydney:20211029T140000
+DTEND;TZID=Australia/Sydney:20211029T150000
+SUMMARY:OSINT for good
+URL:https://www.cyberweek2021.austcyber.com/event/osint-good
+DESCRIPTION:Open source intelligence (OSINT) is a rapidly growing area of Australian expertise. Together\, you will learn how OSINT can provide intelligence to help many human related issues like trafficking\, slavery and child protection. Hear from professionals who have worked in this space across the public and private sectors and discover the journey into the world of OSINT and intelligence.
+LOCATION:FREE EVENT – ONLINE
+END:VEVENT
+END:VCALENDAR

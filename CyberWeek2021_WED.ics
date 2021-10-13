@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Australia/Sydney
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/Australia/Sydney
+X-LIC-LOCATION:Australia/Sydney
+BEGIN:STANDARD
+TZNAME:AEST
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+DTSTART:19700405T030000
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+TZNAME:AEDT
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+DTSTART:19701004T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=1SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20211013T002657Z
+UID:20211013T002657Z-1463087671@marudot.com
+DTSTART;TZID=Australia/Sydney:20211027T103000
+DTEND;TZID=Australia/Sydney:20211027T120000
+SUMMARY:Incident response fundamentals - with Retrospect Labs
+URL:https://www.cyberweek2021.austcyber.com/event/incident-response-fundamentals-retrospect-labs
+DESCRIPTION:Together\, Jason and Shannon from Retrospect Labs will facilitate a workshop on incident response fundamentals\, equipping you to support your business when it’s needed most.
+LOCATION:ONLINE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211013T002657Z
+UID:20211013T002657Z-1477993429@marudot.com
+DTSTART;TZID=Australia/Sydney:20211027T123000
+DTEND;TZID=Australia/Sydney:20211027T133000
+SUMMARY:Proptech meets cyber - risks in a hyperconnected world
+URL:https://www.cyberweek2021.austcyber.com/event/proptech-meets-cyber-risks-hyperconnected-world
+DESCRIPTION:Proptech businesses are faced with a myriad of threats\, risks and opportunities. In a hyperconnected world\, information security is essential to managing these. But\, what other considerations are there? This lunchtime panel will be moderated by Dr Jed Horner\, Head of Government Relations & Advocacy at Stone & Chalk Group.
+LOCATION:ONLINE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211013T002657Z
+UID:20211013T002657Z-434170802@marudot.com
+DTSTART;TZID=Australia/Sydney:20211027T140000
+DTEND;TZID=Australia/Sydney:20211027T160000
+SUMMARY:Dragon’s den - you be the judge
+URL:https://www.cyberweek2021.austcyber.com/event/dragons-den-you-be-judge
+DESCRIPTION:Australia is rapidly building an innovative\, globally competitive cyber security sector. To showcase the companies leading the charge\, ten of our most innovative companies will deliver a three-minute pitch\, with expert judges offering feedback.
+LOCATION:ONLINE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211013T002657Z
+UID:20211013T002657Z-1390705043@marudot.com
+DTSTART;TZID=Australia/Sydney:20211027T170000
+DTEND;TZID=Australia/Sydney:20211027T190000
+SUMMARY:Clinic at Kangaroo Island: Cyber resilience for small businesses
+URL:https://www.cyberweek2021.austcyber.com/event/clinic-kangaroo-island-cyber-resilience-small-businesses
+DESCRIPTION:Join us at the Business Hub on Kangaroo Island for a cyber resilience clinic for small businesses.
+LOCATION:ONLINE & IN-PERSON
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211013T002657Z
+UID:20211013T002657Z-249685480@marudot.com
+DTSTART;TZID=Australia/Sydney:20211027T140000
+DTEND;TZID=Australia/Sydney:20211027T160000
+SUMMARY:Big cyber ideas: Digital demo day
+URL:https://www.cyberweek2021.austcyber.com/event/big-cyber-ideas-digital-demo-day
+DESCRIPTION:For budding entrepreneurs looking to develop their knowledge of startups and innovation\, the Tasmania Cyber Security Innovation Node is running the Big Cyber Ideas Challenge to coincide with Australian Cyber Week 2021
+LOCATION:ONLINE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211013T002657Z
+UID:20211013T002657Z-83796123@marudot.com
+DTSTART;TZID=Australia/Sydney:20211027T193000
+DTEND;TZID=Australia/Sydney:20211027T203000
+SUMMARY:Cyber escape room - ‘Australia under attack’
+URL:https://www.cyberweek2021.austcyber.com/event/cyber-escape-room-australia-under-attack-wednesday
+DESCRIPTION:Do you have what it takes to defend Australia from a cyber attack and escape the Special Operations Command Centre in time? Join ‘Australia under attack’ - a cyber escape room challenge with 20 of your fellow Australian Cyber Week attendees.
+LOCATION:ONLINE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211013T002657Z
+UID:20211013T002657Z-226442609@marudot.com
+DTSTART;TZID=Australia/Sydney:20211027T200000
+DTEND;TZID=Australia/Sydney:20211027T220000
+SUMMARY:Addressing diversity in cyber
+URL:https://www.cyberweek2021.austcyber.com/event/addressing-diversity-cyber
+DESCRIPTION:The Sandbar in Scarborough will host a vibrant and lively discussion about how we can grow a more diverse cyber industry in WA.
+LOCATION:ONLINE & IN-PERSON
+END:VEVENT
+END:VCALENDAR

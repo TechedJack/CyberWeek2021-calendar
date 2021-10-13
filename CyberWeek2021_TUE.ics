@@ -1,0 +1,105 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Australia/Sydney
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/Australia/Sydney
+X-LIC-LOCATION:Australia/Sydney
+BEGIN:STANDARD
+TZNAME:AEST
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+DTSTART:19700405T030000
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+TZNAME:AEDT
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+DTSTART:19701004T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=1SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20211013T002625Z
+UID:20211013T002625Z-689125445@marudot.com
+DTSTART;TZID=Australia/Sydney:20211026T100000
+DTEND;TZID=Australia/Sydney:20211026T110000
+SUMMARY:Cyber escape room - ‘Australia under attack’
+URL:https://www.cyberweek2021.austcyber.com/event/cyber-escape-room-australia-under-attack-tuesday
+DESCRIPTION:Do you have what it takes to defend Australia from a cyber attack and escape the Special Operations Command Centre in time? Join ‘Australia under attack’ - a cyber escape room challenge with 20 of your fellow Australian Cyber Week attendees.
+LOCATION:ONLINE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211013T002625Z
+UID:20211013T002625Z-269055031@marudot.com
+DTSTART;TZID=Australia/Sydney:20211026T103000
+DTEND;TZID=Australia/Sydney:20211026T113000
+SUMMARY:How to build a trusted insider program - with DTEX Systems
+URL:https://www.cyberweek2021.austcyber.com/event/how-build-trusted-insider-program-dtex-systems
+DESCRIPTION:Join us for an interactive virtual workshop on insider risk with Rajan Koo and Nicole Moore of DTEX Systems.
+LOCATION:ONLINE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211013T002625Z
+UID:20211013T002625Z-1644473283@marudot.com
+DTSTART;TZID=Australia/Sydney:20211026T120000
+DTEND;TZID=Australia/Sydney:20211026T130000
+SUMMARY:Speed networking: Diverse people speak cyber
+URL:https://www.cyberweek2021.austcyber.com/event/speed-networking-diverse-people-speak-cyber
+DESCRIPTION:Drop in for short 1:1 networking sessions\, facilitated through the ‘Hopin’ platform\, with a range of individuals from diverse backgrounds.
+LOCATION:ONLINE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211013T002625Z
+UID:20211013T002625Z-429388579@marudot.com
+DTSTART;TZID=Australia/Sydney:20211026T130000
+DTEND;TZID=Australia/Sydney:20211026T140000
+SUMMARY:Cyber Mayday & the Day After – a Cyber Risk Meetup special
+URL:https://www.cyberweek2021.austcyber.com/event/cyber-mayday-day-after-cyber-risk-meetup-special
+DESCRIPTION:Cyber Risk Meetup is proud to bring to you a special session with the CISO Tribe. Attendees will get to hear from Dan Lohrmann\, all the way from the US\, the former CISO for the State of Michigan\, on his latest book ‘Cyber Mayday & the Day After’\, co-authored with Cyber Risk Meetup founder & Privasec’s Chief Growth Officer\, Shamane Tan. In this keynote\, Dan will address how our cyber leaders can remain competitive in preparing for Cyber Mayday\, and recovering on the Day After.
+LOCATION:ONLINE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211013T002625Z
+UID:20211013T002625Z-1728282543@marudot.com
+DTSTART;TZID=Australia/Sydney:20211026T130000
+DTEND;TZID=Australia/Sydney:20211026T190000
+SUMMARY:Securing your business is our business: Perth event
+URL:https://www.cyberweek2021.austcyber.com/event/securing-your-business-our-business-perth-event
+DESCRIPTION:The Cyber Check.Me team will be holding an all-day event at the Liberty Training and Conference Centre\, open to small businesses operating within the City of Perth and City of Subiaco.
+LOCATION:IN-PERSON
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211013T002625Z
+UID:20211013T002625Z-603754937@marudot.com
+DTSTART;TZID=Australia/Sydney:20211026T160000
+DTEND;TZID=Australia/Sydney:20211026T180000
+SUMMARY:Cyber skills pathways: Mapping your cyber career
+URL:https://www.cyberweek2021.austcyber.com/event/cyber-skills-pathways-mapping-your-cyber-career
+DESCRIPTION:The rapid growth of the cyber security sector and increased online activity is driving demand for more cyber security professionals to fill available jobs. Join us for a careers showcase\, hosted by the Canberra Cyber Security Innovation Node.
+LOCATION:ONLINE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211013T002625Z
+UID:20211013T002625Z-1563864041@marudot.com
+DTSTART;TZID=Australia/Sydney:20211026T164000
+DTEND;TZID=Australia/Sydney:20211026T183000
+SUMMARY:SA cyber meet 2021
+URL:https://www.cyberweek2021.austcyber.com/event/sa-cyber-meet-2021
+DESCRIPTION:Join us for an open networking event for industry and students. Together\, we will celebrate South Australia’s success in building and strengthening its vibrant and competitive workforce over the last 12 months\, while also connecting the state’s emerging talent with the State’s cyber professionals.
+LOCATION:IN-PERSON
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211013T002625Z
+UID:20211013T002625Z-1654572337@marudot.com
+DTSTART;TZID=Australia/Sydney:20211026T180000
+DTEND;TZID=Australia/Sydney:20211026T190000
+SUMMARY:Upskilling and micro-credentialing a remote workforce
+URL:https://www.cyberweek2021.austcyber.com/event/upskilling-and-micro-credentialing-remote-workforce
+DESCRIPTION:Hosted by AustCyber’s CEO Michelle Price\, this event features guests with diverse careers as we explore the available options and challenges of managing a remote and/or distributed workforce while also embedding upskilling and micro-credentialing.
+LOCATION:ONLINE
+END:VEVENT
+END:VCALENDAR

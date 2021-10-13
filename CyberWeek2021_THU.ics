@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Australia/Sydney
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/Australia/Sydney
+X-LIC-LOCATION:Australia/Sydney
+BEGIN:STANDARD
+TZNAME:AEST
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+DTSTART:19700405T030000
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+TZNAME:AEDT
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+DTSTART:19701004T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=1SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20211013T002735Z
+UID:20211013T002735Z-469056567@marudot.com
+DTSTART;TZID=Australia/Sydney:20211028T080000
+DTEND;TZID=Australia/Sydney:20211028T090000
+SUMMARY:Showcase Maryland USA
+URL:https://www.cyberweek2021.austcyber.com/event/showcase-maryland-usa
+DESCRIPTION:During this session we will explore the opportunities for cyber security and emerging technology companies within the state of Maryland\, USA.
+LOCATION:ONLINE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211013T002735Z
+UID:20211013T002735Z-825833992@marudot.com
+DTSTART;TZID=Australia/Sydney:20211028T080000
+DTEND;TZID=Australia/Sydney:20211028T090000
+SUMMARY:Cyber for schools on KI
+URL:https://www.cyberweek2021.austcyber.com/event/cyber-schools-ki
+DESCRIPTION:AustCyber\, in partnership with Cyber CX\, will be running a cyber awareness outreach breakfast with local schools across Kangaroo Island. Together\, they will provide a session on career pathways in cyber and run a capture the flag competition for the children.
+LOCATION:IN-PERSON
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211013T002735Z
+UID:20211013T002735Z-1366309830@marudot.com
+DTSTART;TZID=Australia/Sydney:20211028T103000
+DTEND;TZID=Australia/Sydney:20211028T113000
+SUMMARY:Introduction to digital forensics and digital forensics science - with Professor Matthew Sorell
+URL:https://www.cyberweek2021.austcyber.com/event/introduction-digital-forensics-and-digital-forensics-science-professor-matthew-sorell
+DESCRIPTION:This workshop introduces the principles of digital forensics as applied to incident response (based on NIST 800-86)\, and digital forensic science as applied to criminal investigation.
+LOCATION:ONLINE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211013T002735Z
+UID:20211013T002735Z-662985638@marudot.com
+DTSTART;TZID=Australia/Sydney:20211028T120000
+DTEND;TZID=Australia/Sydney:20211028T130000
+SUMMARY:Networking: Meet and learn from Defence primes
+URL:https://www.cyberweek2021.austcyber.com/event/networking-meet-and-learn-defence-primes
+DESCRIPTION:Join our lunchtime networking event to connect and meet your next potential defence prime customer.
+LOCATION:ONLINE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211013T002735Z
+UID:20211013T002735Z-1722000769@marudot.com
+DTSTART;TZID=Australia/Sydney:20211028T130000
+DTEND;TZID=Australia/Sydney:20211028T190000
+SUMMARY:Securing your business is our business: Wanneroo event
+URL:https://www.cyberweek2021.austcyber.com/event/securing-your-business-our-business-wanneroo-event
+DESCRIPTION:The Cyber Check.Me team will be holding an all-day event at the Allied Health Centre\, Wanneroo\, open to all small businesses operating within the City of Perth and City of Subiaco.
+LOCATION:ONLINE & IN-PERSON
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211013T002735Z
+UID:20211013T002735Z-98526784@marudot.com
+DTSTART;TZID=Australia/Sydney:20211028T140000
+DTEND;TZID=Australia/Sydney:20211028T150000
+SUMMARY:Cyber escape room - ‘Australia under attack’
+URL:https://www.cyberweek2021.austcyber.com/event/cyber-escape-room-australia-under-attack-thursday
+DESCRIPTION:Do you have what it takes to defend Australia from a cyber attack and escape the Special Operations Command Centre in time? Join ‘Australia under attack’ - a cyber escape room challenge with 20 of your fellow Australian Cyber Week attendees.
+LOCATION:ONLINE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211013T002735Z
+UID:20211013T002735Z-1152736126@marudot.com
+DTSTART;TZID=Australia/Sydney:20211028T153000
+DTEND;TZID=Australia/Sydney:20211028T163000
+SUMMARY:Splunk 4 rookies hands-on workshop
+URL:https://www.cyberweek2021.austcyber.com/event/splunk-4-rookies-hands-workshop
+DESCRIPTION:The Splunk 4 Rookies hands-on workshop will help you go from Splunk zero to Splunk hero in just one hour! You will become familiar with the most popular Splunk search commands and Splunk security foundations.
+LOCATION:ONLINE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211013T002735Z
+UID:20211013T002735Z-1503529688@marudot.com
+DTSTART;TZID=Australia/Sydney:20211028T173000
+DTEND;TZID=Australia/Sydney:20211028T190000
+SUMMARY:The great Australian funding debate
+URL:https://www.cyberweek2021.austcyber.com/event/great-australian-funding-debate
+DESCRIPTION:Join us for a debate on the current state of procurement and policy as it relates to the emerging technology sectors within Australia. Our host will ask the big questions of guests\, with two teams - affirmative and negative - battling it out to highlight the opportunities\, challenges and required actions to uplift procurement across the nation.
+LOCATION:ONLINE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20211013T002735Z
+UID:20211013T002735Z-241125029@marudot.com
+DTSTART;TZID=Australia/Sydney:20211028T180000
+DTEND;TZID=Australia/Sydney:20211028T210000
+SUMMARY:Women in cyber
+URL:https://www.cyberweek2021.austcyber.com/event/women-cyber
+DESCRIPTION:Currently\, there is a severe shortage of cyber and information security professionals across the nation. In Australia\, only 13% of Fortune 500 companies feature women in top cyber security positions. The increase in digitalisation\, hybrid work environments and the threat landscape\, has put Australia at risk.
+LOCATION:IN-PERSON
+END:VEVENT
+END:VCALENDAR
